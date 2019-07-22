@@ -1,4 +1,11 @@
 node_modules/
 .vscode
 .idea/
-.DS_Store
+
+**/.DS_Store
+
+**/LessonPlan.md
+**/TimeTracker.xlsx
+
+**/.ipynb_checkpoints
+**/__pycache__
