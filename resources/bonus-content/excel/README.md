@@ -1,0 +1,5 @@
+[Introduction to Excel and VBA (beginners)](https://www.excel-easy.com/)
+[Advanced Excel and VBA (tutorial)](https://excelexposure.com/tag/advanced-excel-tutorial/)
+[Microsoft Excel as a Financial Calculator (tutorial)](http://www.tvmcalcs.com/index.php/calculators/excel_tvm_functions/excel_tvm_functions_page1)
+[Commonly Used Functions](https://www.excel-easy.com/functions.html)
+[Excel VBA Programming](http://www.homeandlearn.org/excel_vba_practice1.html )
