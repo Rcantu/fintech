@@ -26,7 +26,8 @@ with open(file, 'r') as file:
     # Parse the file line by line
     for line in file:
 
-        # Convert the number in the text file from string to int
+        # Convert the number in the text file from string to int 
+        
         number = int(line)
 
         # Sum the total and count of the numbers in the text file
