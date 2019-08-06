@@ -1,4 +1,4 @@
-# Welcome to class!
+## Welcome to class!
 ---
 
 This is your repository for all the files we will use in this FinTech bootcamp.
