@@ -1,3 +1,3 @@
 # Extra Content
 
-Hammer time:
+Hammer time: [Repo](https://github.com/CamKirk/lp-hammertime.git)
